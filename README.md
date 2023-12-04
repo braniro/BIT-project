@@ -1,5 +1,5 @@
 
-# Nmap scanner with export to Kibana
+# Nmap scanner with export to Elastic
 
 **Disclaimer**: This is a simple prototype made for the Information Technology Security class at FIIT STU. Use at your own risk.
 
